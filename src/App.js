@@ -1,9 +1,9 @@
 import './App.css';
-import cnu from "./assets/img/seenu.jpg";
-import address from "./assets/img/address.png";
+import cnu from "./assets/img/cna.png";
+import address from "./assets/img/add.jpg";
 import contact from "./assets/img/contact.jpg";
 import icon from "./assets/img/icon.jpg";
-import whatsapp from "./assets/img/whatapplogo.png";
+import whatsapp from "./assets/img/wat.png";
 import call from "./assets/img/ca.png";
 
 const App = () => {
@@ -205,7 +205,7 @@ const App = () => {
       <div className="row">
         <div className="col-lg-12">
           <ul className="timeline">
-            <li>
+            <li >
               <div className="timeline-image">
                 <img className="rounded-circle img-fluid" src={cnu} alt="founder"/>
               </div>
@@ -225,7 +225,7 @@ const App = () => {
             </li>
             <li className="timeline-inverted">
               <div className="timeline-image">
-                <img className="rounded-circle img-fluid" src={address} alt=""/>
+                <img className="rounded-circle img-fluid" src={address} alt="address"/>
               </div>
               <div className="timeline-panel">
                 <div className="timeline-heading">
@@ -237,9 +237,9 @@ const App = () => {
                 </div>
               </div>
             </li>
-            <li>
+            <li className="timeline-inverted">
               <div className="timeline-image">
-                <img className="rounded-circle img-fluid" src={contact} alt=""/>
+                <img className="rounded-circle img-fluid" src={contact} alt="contact"/>
               </div>
               <div className="timeline-panel">
                 <div className="timeline-heading">
