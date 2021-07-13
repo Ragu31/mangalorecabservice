@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/mangalorecabservice/static/css/main.c2c40ff9.chunk.css",
-    "main.js": "/mangalorecabservice/static/js/main.6064ae4b.chunk.js",
-    "main.js.map": "/mangalorecabservice/static/js/main.6064ae4b.chunk.js.map",
-    "runtime-main.js": "/mangalorecabservice/static/js/runtime-main.57ed2284.js",
-    "runtime-main.js.map": "/mangalorecabservice/static/js/runtime-main.57ed2284.js.map",
-    "static/js/2.d10a9d25.chunk.js": "/mangalorecabservice/static/js/2.d10a9d25.chunk.js",
-    "static/js/2.d10a9d25.chunk.js.map": "/mangalorecabservice/static/js/2.d10a9d25.chunk.js.map",
-    "index.html": "/mangalorecabservice/index.html",
-    "static/css/main.c2c40ff9.chunk.css.map": "/mangalorecabservice/static/css/main.c2c40ff9.chunk.css.map",
-    "static/js/2.d10a9d25.chunk.js.LICENSE.txt": "/mangalorecabservice/static/js/2.d10a9d25.chunk.js.LICENSE.txt",
-    "static/media/address.ad6a1b4b.png": "/mangalorecabservice/static/media/address.ad6a1b4b.png",
-    "static/media/ca.388fc52b.png": "/mangalorecabservice/static/media/ca.388fc52b.png",
-    "static/media/contact.77e07e0c.jpg": "/mangalorecabservice/static/media/contact.77e07e0c.jpg",
-    "static/media/agency.min.css": "/mangalorecabservice/static/media/map-image.3cd6dd98.png",
-    "static/media/seenu.a8fa7f76.jpg": "/mangalorecabservice/static/media/seenu.a8fa7f76.jpg",
-    "static/media/wat.c4fb4be8.png": "/mangalorecabservice/static/media/wat.c4fb4be8.png"
+    "main.css": "/cab/static/css/main.a2337c59.chunk.css",
+    "main.js": "/cab/static/js/main.be19421f.chunk.js",
+    "main.js.map": "/cab/static/js/main.be19421f.chunk.js.map",
+    "runtime-main.js": "/cab/static/js/runtime-main.8ab283e9.js",
+    "runtime-main.js.map": "/cab/static/js/runtime-main.8ab283e9.js.map",
+    "static/js/2.d10a9d25.chunk.js": "/cab/static/js/2.d10a9d25.chunk.js",
+    "static/js/2.d10a9d25.chunk.js.map": "/cab/static/js/2.d10a9d25.chunk.js.map",
+    "index.html": "/cab/index.html",
+    "static/css/main.a2337c59.chunk.css.map": "/cab/static/css/main.a2337c59.chunk.css.map",
+    "static/js/2.d10a9d25.chunk.js.LICENSE.txt": "/cab/static/js/2.d10a9d25.chunk.js.LICENSE.txt",
+    "static/media/add.4601b3d3.jpg": "/cab/static/media/add.4601b3d3.jpg",
+    "static/media/ca.388fc52b.png": "/cab/static/media/ca.388fc52b.png",
+    "static/media/cna.0474b1ef.png": "/cab/static/media/cna.0474b1ef.png",
+    "static/media/contact.77e07e0c.jpg": "/cab/static/media/contact.77e07e0c.jpg",
+    "static/media/agency.min.css": "/cab/static/media/map-image.3cd6dd98.png",
+    "static/media/wat.c4fb4be8.png": "/cab/static/media/wat.c4fb4be8.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.57ed2284.js",
+    "static/js/runtime-main.8ab283e9.js",
     "static/js/2.d10a9d25.chunk.js",
-    "static/css/main.c2c40ff9.chunk.css",
-    "static/js/main.6064ae4b.chunk.js"
+    "static/css/main.a2337c59.chunk.css",
+    "static/js/main.be19421f.chunk.js"
   ]
 }
